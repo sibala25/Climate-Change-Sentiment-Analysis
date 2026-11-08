@@ -28,4 +28,3 @@ These are **associations, not evidence of causation**; conclusions depend on the
 
 This is archived coursework, not a fully reproducible software package. The original notebook uses Google Colab file paths and references external datasets that are not included in this repository. The Hugging Face inference endpoint may also differ from the service available when the project was completed.
 
-**Security note:** An API access token originally stored in the notebook was removed for public sharing. The notebook now reads `HUGGING_FACE_TOKEN` from the environment. Do not commit tokens or private credentials to the repository.
