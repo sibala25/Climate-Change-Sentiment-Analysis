@@ -23,7 +23,7 @@ These are **associations, not evidence of causation**; conclusions depend on the
 
 - [`comm188cfinalproject.ipynb`](comm188cfinalproject.ipynb) — analysis notebook, including preprocessing, sentiment modeling, and statistical comparisons.
 - [`data/twitter_sentiment_data.csv`](data/twitter_sentiment_data.csv) — original input dataset (CSV).
-- [Original project report (PDF)](https://github.com/sibala25/sibala25.github.io/blob/main/12_24_SentimentAnalysis.pdf) — currently hosted in my earlier portfolio repository.
+- [Original project report (PDF)](SentimentAnalysis.pdf) — complete written report and results.
 
 ## Reproducing the analysis
 
