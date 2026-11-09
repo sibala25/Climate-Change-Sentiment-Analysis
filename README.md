@@ -25,7 +25,6 @@ These are **associations, not evidence of causation**; conclusions depend on the
 - [`data/twitter_sentiment_data.csv`](data/twitter_sentiment_data.csv) — original input dataset (CSV).
 - [Original project report (PDF)](SentimentAnalysis.pdf) — complete written report and results.
 
-## Reproducing the analysis
+## Running the analysis
 
-This is archived coursework, not a fully reproducible software package. The primary dataset is included in the `data/` directory, and the notebook now reads it using a repository-relative path. A separate comparison dataset is downloaded using `kagglehub` in the notebook. The Hugging Face inference endpoint may differ from the service available when the project was completed.
-
+The primary dataset is included in `data/`. The notebook downloads the comparison dataset using `kagglehub` and uses Hugging Face for sentiment inference; API access may be required.
